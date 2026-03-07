@@ -1,0 +1,217 @@
+{
+  "settings": {
+    "name": "Amanbal Gupta",
+    "title": "Tech BSA | Data & AML Risk",
+    "location": "India",
+    "summary": "Solution Architect/Tech Business Systems Analyst with 2+ years in AML banking systems, transaction monitoring, and enterprise data integrations.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:amanbalgupta@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Transaction Monitoring (AML)",
+          "Solution Design & Implementation",
+          "Product & Project Management",
+          "Data Analysis, ETL & Master Data Management",
+          "Agile, Scrum & Waterfall Methodologies (JIRA/AOPM)",
+          "Goal-oriented & Results-driven",
+          "Strong Problem-Solving & Analytical Skills",
+          "STAR Transaction Monitoring Application",
+          "Prepaid Cards & Loan Systems",
+          "Data Migration & System Integration",
+          "SQL",
+          "Python",
+          "Django",
+          "REST APIs",
+          "Data Reconciliation & Quality Validation",
+          "Team & Vendor Management",
+          "Stakeholder Communication & Training"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Axis Bank Limited",
+          "position": "Tech BSA – Banking Systems, Manager",
+          "period": "09/2023 - Present",
+          "description": "Acted as a business solution provider, translating business and regulatory requirements into effective technical and functional solutions. Led interactions with multiple stakeholders across Business, Risk Management, Operations, Technology, and Compliance teams. Assessed business requirements and drove end-to-end delivery including scope definition, effort estimation, prototype design, development coordination, UAT, and defect resolution. Authored and managed BRD, FSD documents and delivered projects. Owned and supported AML and regulatory systems for Transaction Monitoring, Risk Scoring, ETL, and Regulatory Reporting. Fixed internal, external, audit, and InfoSec observations, ensuring audit readiness and regulatory compliance. Performed application vulnerability assessments using Qualys, including IPT, VAPT, Log4j, and related security parameters. Managed infrastructure setup for new projects and ad-hoc requirements, including version upgrades of EOL/EOS OS, application, web, and database servers. Used SQL/PL SQL, Linux, and Postman for data analysis, validation, and API testing."
+        },
+        {
+          "company": "Axis Bank Limited",
+          "position": "Solution Analyst",
+          "period": "06/2022 - 11/2022",
+          "description": "Worked as a full-stack developer on an Admin Portal using Python, Django, Django REST Framework, JavaScript (ES6), and SQL. Developed modules including Dashboard, User Management and Audit Trail. Handled backend development for the User Application."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Centralized Enhanced Due Diligence (EDD) Platform",
+          "description": "Led business and functional analysis for a centralized EDD platform, aligning AML, risk, compliance, and technology requirements. Acted as Tech BSA bridging Compliance, Risk, Operations, and Development teams. Automated and centralized fragmented EDD workflows, reducing TAT, duplication, and audit gaps. Supported integrations with STAR, RAMP, DTM pipelines, and freeze APIs to strengthen regulatory compliance.",
+          "tags": [
+            "IT",
+            "Tech BSA",
+            "AML",
+            "Compliance"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Data Migration & Transaction Monitoring – STAR",
+          "description": "Supported high-impact migrations (YCS → Euronet, FinOne → FinLend) with end-to-end data analysis and onboarding into STAR. Designed and validated data pipelines for customer, account, and transaction data to enable AML alert generation. Ensured data integrity, reconciliation, and regulatory compliance during sensitive system transitions.",
+          "tags": [
+            "IT",
+            "Tech BSA",
+            "Data Migration",
+            "AML"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "STAR - T Day Customer Risk Calculation",
+          "description": "Led implementation of same-day customer risk calculation, reducing TAT from T+3 days to same day/next business day. Designed a new risk calculation pipeline for newly onboarded customers enabling immediate product access. Coordinated cross-functional teams and ensured successful Finacle integration before go-live.",
+          "tags": [
+            "IT",
+            "Tech BSA",
+            "Risk Calculation",
+            "Finacle"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        },
+        {
+          "title": "Axis-Citi Bank Merger: Data Migration and AML Compliance Integration",
+          "description": "Played a key role in large-scale migration of Citi customer and transaction data into Axis systems. Integrated historical data to strengthen AML monitoring and suspicious activity detection. Optimized and stabilized critical processes to ensure compliance and operational continuity post-merger.",
+          "tags": [
+            "IT",
+            "Tech BSA",
+            "Data Migration",
+            "AML Compliance"
+          ],
+          "previewUrl": "",
+          "repoUrl": ""
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "B.N Bandodkar College of Science",
+          "degree": "BSc IT",
+          "period": "2019 - 2022"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Tech STAR Award",
+          "description": "Honored with the Tech Star Award in Risk and Resilience, a quarterly recognition given to teams for driving high-impact, innovative projects in the tech space across multiple categories."
+        },
+        {
+          "title": "Use Power Platform for Custom & Automated Solutions",
+          "description": "Certification"
+        },
+        {
+          "title": "Agile Software Development",
+          "description": "Certification"
+        },
+        {
+          "title": "Java Programming: Solving Problems with Software",
+          "description": "Certification"
+        },
+        {
+          "title": "AWS Cloud Technical Essentials",
+          "description": "Certification"
+        },
+        {
+          "title": "Databases and SQL for Data Science with Python",
+          "description": "Certification"
+        },
+        {
+          "title": "Java Programming: Arrays, Lists, and Structured Data",
+          "description": "Certification"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "amanbalgupta@gmail.com",
+      "phone": "7249241262",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/aman-gupta-10ba17190",
+          "icon": "linkedin"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Amanbal Gupta. All rights reserved."
+  }
+}

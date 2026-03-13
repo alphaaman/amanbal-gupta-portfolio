@@ -3,8 +3,8 @@
     "name": "Amanbal Gupta",
     "title": "Tech BSA | Data & AML Risk",
     "location": "India",
-    "summary": "Solution Architect/Tech Business Systems Analyst with 2+ years in AML banking systems, transaction monitoring, and enterprise data integrations.",
-    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+    "summary": "Solution Architect/Tech Business Systems Analyst with 2+ years in AML banking systems, transaction monitoring, and data integrations.",
+    "profileImage": "https://media.licdn.com/dms/image/v2/D4D35AQEEE2hCKtzLDw/profile-framedphoto-shrink_400_400/B4DZwjIildI8Ac-/0/1770115967758?e=1774018800&v=beta&t=iSCw28Se7hwdaWpjMaowGQw4eZPyDmmrch5Tj4HQig0"
   },
   "sections": {
     "hero": {
@@ -31,18 +31,19 @@
           "Product & Project Management",
           "Data Analysis, ETL & Master Data Management",
           "Agile, Scrum & Waterfall Methodologies (JIRA/AOPM)",
-          "Goal-oriented & Results-driven",
-          "Strong Problem-Solving & Analytical Skills",
-          "STAR Transaction Monitoring Application",
-          "Prepaid Cards & Loan Systems",
-          "Data Migration & System Integration",
           "SQL",
           "Python",
           "Django",
           "REST APIs",
+          "STAR Transaction Monitoring Application",
+          "Prepaid Cards & Loan Systems",
+          "Data Migration & System Integration",
           "Data Reconciliation & Quality Validation",
           "Team & Vendor Management",
-          "Stakeholder Communication & Training"
+          "Stakeholder Communication & Training",
+          "Linux",
+          "Postman",
+          "JavaScript (ES6)"
         ]
       }
     },
@@ -57,7 +58,7 @@
           "description": "Acted as a business solution provider, translating business and regulatory requirements into effective technical and functional solutions. Led interactions with multiple stakeholders across Business, Risk Management, Operations, Technology, and Compliance teams. Assessed business requirements and drove end-to-end delivery including scope definition, effort estimation, prototype design, development coordination, UAT, and defect resolution. Authored and managed BRD, FSD documents and delivered projects. Owned and supported AML and regulatory systems for Transaction Monitoring, Risk Scoring, ETL, and Regulatory Reporting. Fixed internal, external, audit, and InfoSec observations, ensuring audit readiness and regulatory compliance. Performed application vulnerability assessments using Qualys, including IPT, VAPT, Log4j, and related security parameters. Managed infrastructure setup for new projects and ad-hoc requirements, including version upgrades of EOL/EOS OS, application, web, and database servers. Used SQL/PL SQL, Linux, and Postman for data analysis, validation, and API testing."
         },
         {
-          "company": "Axis Bank Limited",
+          "company": "",
           "position": "Solution Analyst",
           "period": "06/2022 - 11/2022",
           "description": "Worked as a full-stack developer on an Admin Portal using Python, Django, Django REST Framework, JavaScript (ES6), and SQL. Developed modules including Dashboard, User Management and Audit Trail. Handled backend development for the User Application."
@@ -72,10 +73,10 @@
           "title": "Centralized Enhanced Due Diligence (EDD) Platform",
           "description": "Led business and functional analysis for a centralized EDD platform, aligning AML, risk, compliance, and technology requirements. Acted as Tech BSA bridging Compliance, Risk, Operations, and Development teams. Automated and centralized fragmented EDD workflows, reducing TAT, duplication, and audit gaps. Supported integrations with STAR, RAMP, DTM pipelines, and freeze APIs to strengthen regulatory compliance.",
           "tags": [
-            "IT",
-            "Tech BSA",
             "AML",
-            "Compliance"
+            "Risk",
+            "Compliance",
+            "Automation"
           ],
           "previewUrl": "",
           "repoUrl": ""
@@ -84,10 +85,10 @@
           "title": "Data Migration & Transaction Monitoring – STAR",
           "description": "Supported high-impact migrations (YCS → Euronet, FinOne → FinLend) with end-to-end data analysis and onboarding into STAR. Designed and validated data pipelines for customer, account, and transaction data to enable AML alert generation. Ensured data integrity, reconciliation, and regulatory compliance during sensitive system transitions.",
           "tags": [
-            "IT",
-            "Tech BSA",
             "Data Migration",
-            "AML"
+            "Transaction Monitoring",
+            "AML",
+            "Data Integrity"
           ],
           "previewUrl": "",
           "repoUrl": ""
@@ -96,10 +97,9 @@
           "title": "STAR - T Day Customer Risk Calculation",
           "description": "Led implementation of same-day customer risk calculation, reducing TAT from T+3 days to same day/next business day. Designed a new risk calculation pipeline for newly onboarded customers enabling immediate product access. Coordinated cross-functional teams and ensured successful Finacle integration before go-live.",
           "tags": [
-            "IT",
-            "Tech BSA",
             "Risk Calculation",
-            "Finacle"
+            "Customer Onboarding",
+            "Finacle Integration"
           ],
           "previewUrl": "",
           "repoUrl": ""
@@ -108,10 +108,9 @@
           "title": "Axis-Citi Bank Merger: Data Migration and AML Compliance Integration",
           "description": "Played a key role in large-scale migration of Citi customer and transaction data into Axis systems. Integrated historical data to strengthen AML monitoring and suspicious activity detection. Optimized and stabilized critical processes to ensure compliance and operational continuity post-merger.",
           "tags": [
-            "IT",
-            "Tech BSA",
             "Data Migration",
-            "AML Compliance"
+            "AML Compliance",
+            "System Integration"
           ],
           "previewUrl": "",
           "repoUrl": ""
